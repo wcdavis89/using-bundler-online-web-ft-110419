@@ -1,3 +1,8 @@
-gem 'mail', '~> 2.6', '>=2.6.3'
+source "https://rubygems.org"
 
-gem 'rack', git: 'https://github.com/rack/rack'
+gem "sinatra"
+
+group :development do 
+  gem "pry"
+end
+
