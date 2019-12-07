@@ -1,2 +1,2 @@
 require "bundler/setup"
-Bundler
+Bundler.require
