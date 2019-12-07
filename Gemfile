@@ -8,4 +8,4 @@ group :development do
 end
 
 gem "hashie"
-gem 
+gem "octokit" "~> 2.0"
